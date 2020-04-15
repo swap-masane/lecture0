@@ -1,0 +1,59 @@
+h1 {
+  color:darkmagenta;
+  text-align:center;
+}
+
+
+p{
+  color: green;
+}
+
+div {
+background-color: teal;
+width: 500px;
+height: 400px;
+margin: 30px;
+padding: 100px;
+font-family: arial, sans-serif;
+font-size: 50px;
+font-weight: bold;;
+font-style: italic;
+border: 3px solid blue;
+
+}
+.name{
+  background-color: lightgray;
+}
+
+#top{
+  font-size: 36px;
+  width: 100px;
+  height: 100px;
+
+}
+#middle{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+}
+#bottom{
+  font-size: 12px;
+  width: 100px;
+  height: 50px;
+}
+
+table{
+  border: 2px solid red;
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+}
+
+th, td{
+border: 1px blue dotted;
+padding: 5px;
+}
+
+th{
+  background-color: lightgray;
+}
